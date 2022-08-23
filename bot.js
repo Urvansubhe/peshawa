@@ -15,7 +15,7 @@ client.on('ready', async () => {
 
 client.on("messageCreate", (message) => {
     if (message.content === "Reklam") {
-        message.reply(`رێکلام لە تایبەت بۆم بنێرە`);
+        message.reply(`MN TANA FREKA 7iz mt ta`);
     }
     if (message.content === "رێکلام هەیە") {
         message.reply(`رێکلام لە تایبەت بۆم بنێرە`);
